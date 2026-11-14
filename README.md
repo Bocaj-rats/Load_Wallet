@@ -35,9 +35,3 @@ Mobile Number  : 09123456789
 Network        : Globe
 Load Balance   : PHP 100.00
 ```
-
-## GitHub Submission
-1. Create a **public** GitHub repository named `cellphone-load-wallet`.
-2. Upload `main.py`, `load_wallet.py`, and `README.md`.
-3. Confirm all files appear in the repository.
-4. Share the repository URL in your class submission form.
